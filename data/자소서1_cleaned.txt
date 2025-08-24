@@ -1,0 +1,286 @@
+{
+  "projects": [
+    {
+      "title": "사진 기반 출사 장소 추천 AI 모델 개발",
+      "type": "project",
+      "org": "[학교]",
+      "role": "팀원",
+      "domain": "AI, 앱 개발",
+      "start": "2025-08",
+      "end": null,
+      "techniques": [
+        "이미지 인식",
+        "키워드 추출",
+        "LLM"
+      ],
+      "tools": [
+        "Notion",
+        "Github",
+        "AWS"
+      ],
+      "datasets": [
+        "사용자 업로드 사진"
+      ],
+      "summary": "사용자 업로드 사진을 기반으로 AI가 출사 장소를 추천하는 커뮤니티 앱을 개발 중이며, AWS 기반 배포까지 진행 중입니다. 이미지에서 키워드를 추출하여 LLM에 학습시켜 출사 장소를 추천하는 기능을 주요 목표로 합니다.",
+      "evidence_span": "[학교] <캡스톤 졸업 프로젝트: 사진 기반 출사 장소 추천 AI 모델 개발> 1. 출사 장소 추천 커뮤니티 앱 개발 -AWS 배포 진행중 2. 사용자 업로드 사진 기반 AI 추천 시스템 개발 - 이미지 인식, 키워드 추출, 태그 생성 및 관리 기능 개발 진행중",
+      "id": "96217fe7-8eaf-419c-be08-e11683e5f2da"
+    },
+    {
+      "title": "건강 데이터 기반 질병 여부 판별 머신러닝 학습 프로젝트",
+      "type": "course",
+      "org": "[학교]",
+      "role": "팀원",
+      "domain": "머신러닝",
+      "start": null,
+      "end": null,
+      "techniques": [
+        "데이터 전처리",
+        "모델 학습 및 비교",
+        "XGBoost 모델 하이퍼 파라미터 튜닝"
+      ],
+      "tools": [
+        "Python",
+        "scikit-learn"
+      ],
+      "datasets": [
+        "건강 데이터"
+      ],
+      "summary": "건강 데이터를 사용하여 질병 여부를 판별하는 머신러닝 모델을 학습하는 프로젝트를 진행했습니다. XGBoost 모델을 사용하여 하이퍼 파라미터 튜닝을 통해 예측 성능을 개선했습니다. 프로젝트 최종 2등을 수상했습니다.",
+      "evidence_span": "[학교]<'인공지능적 사고와 문제해결' 교과목> 1. 건강 데이터 기반 질병 여부 판별 머신러닝 학습 프로젝트 -데이터 전처리 -모델 학습 및 비교 -XGB boost 모델 하이퍼 파라미터 튜닝 프로젝트 최종 2등으로, 우수한 예측 성능을 가진 모델 구현",
+      "id": "6596cc38-a915-417e-88dd-0ee8a0749a95"
+    },
+    {
+      "title": "배구경기 세트 초반 득점 양상 분석",
+      "type": "project",
+      "org": "[학교]",
+      "role": "개인",
+      "domain": "데이터 분석",
+      "start": null,
+      "end": null,
+      "techniques": [
+        "웹 크롤링",
+        "데이터 전처리",
+        "선형 회귀 분석"
+      ],
+      "tools": [
+        "Python",
+        "scikit-learn"
+      ],
+      "datasets": [
+        "웹 크롤링을 통해 수집한 배구 경기 데이터"
+      ],
+      "summary": "배구 경기에서 세트 초반 득점 양상과 득점 방식이 해당 세트 결과에 미치는 영향을 분석하는 개인 프로젝트를 수행했습니다. 비정형 데이터를 웹 크롤링으로 수집하고, 전처리 로직을 개선하여 예측력을 높였습니다. 랏쏘 선형 회귀 모델을 사용하여 결과를 분석했습니다.",
+      "evidence_span": "[학교]<’머신러닝’ 교과목> 1. 배구경기에서 세트 초반 득점 양상과 득점 방식이 해당 세트 결과에 미치는 영향 분석 개인 프로젝트 -문제 정의 및 연구 가설 수립 -데이터 수집 및 전처리 -모델 학습 및 비교 -하이퍼 파라미터 튜닝 -랏쏘 선형 회귀 모델을 사용한 결과 분석",
+      "id": "e5cb1685-23ee-40e2-8b3a-77e5fce22269"
+    },
+    {
+      "title": "우범화물 탐지 AI 경진대회 참가",
+      "type": "contest",
+      "org": "[학교]",
+      "role": "참가자",
+      "domain": "AI",
+      "start": null,
+      "end": null,
+      "techniques": [
+        "데이터 전처리",
+        "XGBoost 모델 활용"
+      ],
+      "tools": [
+        "Python",
+        "XGBoost"
+      ],
+      "datasets": [
+        "우범화물 데이터"
+      ],
+      "summary": "[학교] 우범화물 탐지 AI 경진대회에 참가하여 우범 여부 탐지 모델을 학습했습니다. XGBoost 모델을 활용하여 성능 개선을 시도했습니다.",
+      "evidence_span": "[학교]<[학교] 우범화물 탐지 AI 경진대회> 1. 우범 여부 탐지 모델 학습 -데이터 전처리 -XGB boost 모델 활용 성능 개선",
+      "id": "55096e05-d95c-473b-a49d-3784d13c1c0e"
+    },
+    {
+      "title": "공공자전거 재배치를 위한 대여소 별 적정 따릉이 수량 예측 프로젝트",
+      "type": "project",
+      "org": "[학교]",
+      "role": "팀원",
+      "domain": "데이터 분석",
+      "start": null,
+      "end": null,
+      "techniques": [
+        "데이터 수집 및 전처리",
+        "상관관계 및 데이터 분석",
+        "예측 모델 학습"
+      ],
+      "tools": [
+        "Python"
+      ],
+      "datasets": [
+        "공공자전거 대여 데이터"
+      ],
+      "summary": "공공자전거 대여 데이터를 분석하여 대여소별 적정 따릉이 수량을 예측하는 프로젝트를 진행했습니다. 데이터 분석 결과를 바탕으로 예측 모델을 학습하고 인사이트를 제시했습니다.",
+      "evidence_span": "[학교]<’데이터 사이언스’ 교과목> 1. 공공자전거 재배치를 위한 대여소 별 적정 따릉이 수량 예측 프로젝트 -데이터 수집 및 전처리 -상관관계 및 데이터 분석 -분석 결과 기반 예측 모델 학습 -인사이트 제시",
+      "id": "b11a21f7-362b-4af0-8501-dac03fdf3e6f"
+    },
+    {
+      "title": "도서관 대출 데이터와 행정동 분석을 통한 맞춤형 자료 운영 전략 연구",
+      "type": "contest",
+      "org": "국립중앙도서관",
+      "role": "참가자",
+      "domain": "데이터 분석",
+      "start": "2024-06-21",
+      "end": "2024-08-30",
+      "techniques": [
+        "데이터 수집 및 전처리",
+        "상관관계 분석"
+      ],
+      "tools": [
+        "Python"
+      ],
+      "datasets": [
+        "도서관 대출 데이터",
+        "행정동 데이터"
+      ],
+      "summary": "도서관 대출 데이터와 행정동 데이터를 분석하여 맞춤형 자료 운영 전략을 연구하는 공모전에 참가했습니다. 공공데이터를 수집하고 전처리하여 상관관계 분석을 통해 유의미한 정보를 추출하고, 이를 바탕으로 운영 전략을 수립했습니다.",
+      "evidence_span": "공모전 24.06.21~24.08.30국립중앙도서관<도서관 데이터 활용 공모전> 1. 도서관 대출 데이터와 행정동 분석을 통한 맞춤형 자료 운영 전략 연구 -공공데이터 수집 및 전처리 -상관관계 분석 후 유의미한 정보 추출 -추출된 정보 기반 운영 전략 수립",
+      "id": "8959401f-bc9d-4419-a6de-42824d3e4bfd"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "category": "lang"
+    },
+    {
+      "name": "머신러닝",
+      "category": "ml"
+    },
+    {
+      "name": "데이터 분석",
+      "category": "biz"
+    },
+    {
+      "name": "XGBoost",
+      "category": "ml"
+    },
+    {
+      "name": "데이터 전처리",
+      "category": "ml"
+    },
+    {
+      "name": "웹 크롤링",
+      "category": "ml"
+    },
+    {
+      "name": "선형 회귀",
+      "category": "ml"
+    },
+    {
+      "name": "AWS",
+      "category": "cloud"
+    },
+    {
+      "name": "Notion",
+      "category": "tool"
+    },
+    {
+      "name": "Github",
+      "category": "tool"
+    },
+    {
+      "name": "SQL",
+      "category": "db"
+    },
+    {
+      "name": "LLM",
+      "category": "ml"
+    },
+    {
+      "name": "이미지 인식",
+      "category": "ml"
+    },
+    {
+      "name": "키워드 추출",
+      "category": "ml"
+    },
+    {
+      "name": "상관관계 분석",
+      "category": "method"
+    },
+    {
+      "name": "예측 모델",
+      "category": "ml"
+    },
+    {
+      "name": "시각화",
+      "category": "viz"
+    },
+    {
+      "name": "한글",
+      "category": "tool"
+    },
+    {
+      "name": "파워포인트",
+      "category": "tool"
+    },
+    {
+      "name": "아래한글",
+      "category": "tool"
+    },
+    {
+      "name": "GTQ",
+      "category": "tool"
+    },
+    {
+      "name": "ITQ",
+      "category": "tool"
+    }
+  ],
+  "achievements": [
+    {
+      "ref_title": "건강 데이터 기반 질병 여부 판별 머신러닝 학습 프로젝트",
+      "metric_type": "qual",
+      "metric_name": "프로젝트 결과",
+      "value": "2등",
+      "significance": null,
+      "business_or_clinical_impact": "우수한 예측 성능을 가진 모델 구현",
+      "ref_id": "6596cc38-a915-417e-88dd-0ee8a0749a95"
+    },
+    {
+      "ref_title": "도서관 대출 데이터와 행정동 분석을 통한 맞춤형 자료 운영 전략 연구",
+      "metric_type": "qual",
+      "metric_name": "공모전 참가",
+      "value": "참가",
+      "significance": null,
+      "business_or_clinical_impact": "도서관 운영 전략 수립",
+      "ref_id": "8959401f-bc9d-4419-a6de-42824d3e4bfd"
+    },
+    {
+      "ref_title": null,
+      "metric_type": "qual",
+      "metric_name": "토익 점수",
+      "value": "875점",
+      "significance": null,
+      "business_or_clinical_impact": "영어 학습 성과",
+      "ref_id": null
+    }
+  ],
+  "conflicts": [
+    {
+      "ref_title": null,
+      "context": "팀 프로젝트 진행 중 팀원이 자신의 파트를 구현하지 못해 중도 포기하려는 상황",
+      "stakeholders": [
+        "팀원",
+        "나"
+      ],
+      "issue": "팀원의 역량 부족으로 인한 프로젝트 지연 및 실패 위험",
+      "actions": [
+        "팀장으로서 해당 팀원의 업무를 함께 담당",
+        "함께 공부하며 부담 경감",
+        "각자 공부한 내용 상호 설명",
+        "코드 합치기"
+      ],
+      "resolution": "해결",
+      "outcome": "프로젝트 성공적으로 완료",
+      "lessons": "팀원과의 의사소통 방법과 문제 해결 방법 향상",
+      "ref_id": null
+    }
+  ]
+}
